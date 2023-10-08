@@ -5,7 +5,6 @@ Install the Pandoc, Latex and the [Eisvogel](https://github.com/Wandmalfarbe/pan
 Also install:
 
 * [pandoc-inlucde](https://github.com/DCsunset/pandoc-include)
-* [pandoc-latex-admonition](https://github.com/chdemko/pandoc-latex-admonition)
 
 
 ```bash
