@@ -25,7 +25,7 @@ Innovatie wordt dus dubbel fiscaal afgeremd: innovatieve projecten kunnen nog ni
 
 Voor zover mensen naar box 2 vluchten werkt dit discriminerend tussen grote en kleine beleggers, omdat die laatste vaker onder de 5% blijven. Dit zal zowel bij crowdfunding als crypto gaan gebeuren mijns inziens.
 
-Meer filofisch betwijfel ik erstnig of papieren winst ook maar iets te maken heeft met "werkelijk rendement". Al teminste vanaf de tulpenmania is bekend dat de waarde op papier lang niet altijd te verzilveren is. Zeker niet als iedereen dat tegelijk op 1 januari doet om belasting te kunnen betalen.
+Meer filosofisch betwijfel ik ernstig of papieren winst ook maar iets te maken heeft met "werkelijk rendement". Al tenminste vanaf de tulpenmania is bekend dat de waarde op papier lang niet altijd te verzilveren is. Zeker niet als iedereen dat tegelijk op 1 januari doet om belasting te kunnen betalen.
 
 Wat betreft de oplossingsrechting, lijkt het mij beter om een eenvoudige vermogensbelasting in te voeren. Die kan een drempel bevatten en evt. wat uitzonderingen voor beleggingen met inherent laag rendement. Dit voorkomt de hierna beschreven administratieve nachtmerrie en zorgt dat het fiscale effect van grote schommelingen in vermogen over langere tijd uitgesmeerd wordt.
 
@@ -53,9 +53,9 @@ Bij een net iets andere timing van de markt, als de piek op 1 januari was gewees
 
 Ook als de koers naar €0 was gezakt, had hij een schuld bij de Belastingdienst van €27.000. Het is maar de vraag of dat openstaande bedrag op tijd met toekomstige verliezen te verrekenen is, of dat de fiscus voor die tijd al beslag op zijn auto en huis heeft gelegd.
 
-De moraal van dit verhaal is dat het belasten van papieren winsten tot een situatie lijdt waarbij het risico van beleggen niet meer beperkt is tot je inleg plug een klein beetje. Een (enigszins) verantwoord gokje lijkt qua risicoprofiel nu meer op short gaan.
+De moraal van dit verhaal is dat het belasten van papieren winsten tot een situatie lijdt waarbij het risico van beleggen niet meer beperkt is tot je inleg plus een klein beetje. Een (enigszins) verantwoord gokje lijkt qua risicoprofiel nu meer op short gaan.
 
-Het alleen belasten van verzilverde winst helpt hier slechts ten dele. Uit ervaring in VS blijkt dat dit alsnog mensen in de problemen brengt, vooral bij handel _tussen_ verschillende crypto's - daarbij ruilt iemand het ene volatiele vermogensbestandsdeel in voor het andere, waarbij winst gealiseerd wordt, maar niet in "harde" euros verzilverd.^[https://www.barrons.com/articles/crypto-firm-bankruptcy-tax-return-51675879096]
+Het alleen belasten van verzilverde winst helpt hier slechts ten dele. Uit ervaring in VS blijkt dat dit alsnog mensen in de problemen brengt, vooral bij handel _tussen_ verschillende crypto's - daarbij ruilt iemand het ene volatiele vermogensbestandsdeel in voor het andere, waarbij winst gerealiseerd wordt, maar niet in "harde" euros verzilverd.^[https://www.barrons.com/articles/crypto-firm-bankruptcy-tax-return-51675879096]
 
 Het kunnen verrekenen met box 1, liefst met terugwerkende kracht over meerdere jaren, zou enigszins kunnen helpen om dit soort grote schokken op te vangen.
 
@@ -90,7 +90,7 @@ Institutionele beleggers die niet in hetzelfde stramien zitten, kunnen mogelijk 
 
 Indien iemand zijn of haar salaris in Bitcoin ontvangt en daarmee belasting, huur en dagelijkse boodschappen betaalt, is er continu sprake van gerealiseerde winst of verlies. Dit omdat alles uiteindelijk ten opzichte van de euro berekend moet worden.
 
-In het huidige stelsel is hier geen probleem. Slechts één keer per jaar hoef iemand de totale hoeveelheid Bitcoin uit te rekenen en te vermenigvuldigen met de koers.
+In het huidige stelsel is hier geen probleem. Slechts één keer per jaar hoeft iemand de totale hoeveelheid Bitcoin uit te rekenen en te vermenigvuldigen met de koers.
 
 Het miniteus moeten bijhouden van transacties door het hele jaar heen, en alle ingewikkelde berekeningen die daarbij komen kijken, vormt een ernstige ontmoediging voor het gebruik van Bitcoin. Voor sommigen is dat wellicht politiek wenselijk, maar het is i.i.g. niet bepaald marktneutraal.
 
